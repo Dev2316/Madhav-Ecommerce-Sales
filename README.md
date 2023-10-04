@@ -1,6 +1,6 @@
 # Madhav-Ecommerce-Sales
 
-Project Learnings
+# Project Learnings
 
 In this GitHub repository, you will find a summary of the key learnings and achievements from our recent project focused on creating an interactive dashboard for tracking and analyzing online sales data. The project involved various technical aspects, and here are some of the main highlights:
 Interactive Dashboard Creation
@@ -11,7 +11,7 @@ Interactive Dashboard Creation
 
 •	Utilized customization features like filters and slicers to enhance user experience and provide data-driven insights.
 
-Data Manipulation and Transformation
+# Data Manipulation and Transformation
 
 •	Created connections to various data sources and incorporated new tables as needed.
 
@@ -19,7 +19,7 @@ Data Manipulation and Transformation
 
 •	Enabled user-driven parameters for visualizations, allowing users to customize their views and gain deeper insights.
 
-Customized Visualizations
+# Customized Visualizations
 
 •	Employed a variety of customized visualization types to present data effectively, including:
 
