@@ -8,23 +8,37 @@ Interactive Dashboard Creation
 •	Developed an interactive dashboard that enables users to efficiently track and analyze online sales data.
 
 •	Implemented complex parameters to facilitate drilling down into the worksheet, allowing for in-depth data exploration.
+
 •	Utilized customization features like filters and slicers to enhance user experience and provide data-driven insights.
 
 Data Manipulation and Transformation
+
 •	Created connections to various data sources and incorporated new tables as needed.
+
 •	Performed calculations and transformations on the data to prepare it for visualization.
+
 •	Enabled user-driven parameters for visualizations, allowing users to customize their views and gain deeper insights.
 
 Customized Visualizations
+
 •	Employed a variety of customized visualization types to present data effectively, including:
+
 •	Bar charts
+
 •	Pie charts
+
 •	Donut charts
+
 •	Clustered bar charts
+
 •	Scatter charts
+
 •	Line charts
+
 •	Area charts
+
 •	Maps
+
 •	Slicers
 
 These visualizations were strategically chosen to convey different aspects of the sales data, making it easier for users to understand trends, patterns, and key insights.
