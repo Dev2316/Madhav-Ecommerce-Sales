@@ -6,6 +6,7 @@ In this GitHub repository, you will find a summary of the key learnings and achi
 Interactive Dashboard Creation
 
 •	Developed an interactive dashboard that enables users to efficiently track and analyze online sales data.
+
 •	Implemented complex parameters to facilitate drilling down into the worksheet, allowing for in-depth data exploration.
 •	Utilized customization features like filters and slicers to enhance user experience and provide data-driven insights.
 
